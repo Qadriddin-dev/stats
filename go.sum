@@ -1,2 +1,3 @@
-github.com/Qadriddin-dev/bank/v2 v2.0.0-20200926031243-3ac0fe2a0c39 h1:2US2eBIKswIDPWoohg5vuXDYlEOfwPjjf2HsuHJCmC4=
-github.com/Qadriddin-dev/bank/v2 v2.0.0-20200926031243-3ac0fe2a0c39/go.mod h1:O7Y7MoiW7wewPGUTiucf1fGPOlMPkFiFLxLVVPmPITE=
+
+github.com/Qadriddin-dev/bank/v2 v2.0.0 h1:+sQ2xmemrndQpoOgu06iL/TsFqkLsDprvzBfO7GPd+s=
+github.com/Qadriddin-dev/bank/v2 v2.0.0/go.mod h1:O7Y7MoiW7wewPGUTiucf1fGPOlMPkFiFLxLVVPmPITE=
