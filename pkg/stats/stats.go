@@ -15,7 +15,7 @@ func Avg(payments []types.Payment) types.Money {
 		}
 		sum += int(payment.Amount)
 	}
-	avg := sum / (count)
+	avg := sum / (count - 1)
 
 	return types.Money(avg)
 }
