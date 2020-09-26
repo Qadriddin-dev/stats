@@ -1,2 +1,7 @@
+github.com/Muhammadkhon0/bank v1.0.0 h1:BQ6km3o3pJ3niHP63T5ztQ3V4J2wwKRqsfcSKyjADlM=
+github.com/Muhammadkhon0/bank/v2 v2.0.0 h1:pv72LKRFjMPjkIO1mJAS/bjPAgJ4wCkJKr+zPiSaC2g=
+github.com/Muhammadkhon0/bank/v2 v2.0.0/go.mod h1:+m4oAl+eh71JGzlr5MUcHBViXfyPRNRlWcml26YLTYY=
 github.com/Qadriddin-dev/bank v0.0.0-20200926025848-783e9e89ba86 h1:CVvJ8RQXWt/462Y26OkT57bxWeULJ8w5pgq8x2Y560c=
 github.com/Qadriddin-dev/bank v0.0.0-20200926025848-783e9e89ba86/go.mod h1:3ftsxNIAA7lb5X9kBgLSiozoSFxXgO7zPF/1PQEIKO0=
+github.com/Qadriddin-dev/bank/v2 v2.0.0-20200926031243-3ac0fe2a0c39 h1:2US2eBIKswIDPWoohg5vuXDYlEOfwPjjf2HsuHJCmC4=
+github.com/Qadriddin-dev/bank/v2 v2.0.0-20200926031243-3ac0fe2a0c39/go.mod h1:O7Y7MoiW7wewPGUTiucf1fGPOlMPkFiFLxLVVPmPITE=
