@@ -41,7 +41,7 @@ func TestCategoriesAvg_multiple(t *testing.T) {
   
   
 	if !reflect.DeepEqual(expected, res) {
-	  t.Errorf(" got > %v want > nil", res)
-	} 
+		t.Errorf(" got > %v want > %v", res, expected)
+	  }
   
   }
